@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  text-decoration: none;
+}
+
+html,body{
+  height: 100%;
+}
+
+
+/* Montserrat Font */
+@font-face {
+  font-family: MontserratThin;
+  src: url(../fonts/montserrat/Montserrat-Thin.ttf);
+}
+@font-face {
+  font-family: MontserratLight;
+  src: url(../fonts/montserrat/Montserrat-Light.ttf);
+}
+@font-face {
+  font-family: MontserratRegular;
+  src: url(../fonts/montserrat/Montserrat-Regular.ttf);
+}
+@font-face {
+  font-family: MontserratSemiBold;
+  src: url(../fonts/montserrat/Montserrat-SemiBold.ttf);
+}
+@font-face {
+  font-family: MontserratBold;
+  src: url(../fonts/montserrat/Montserrat-Bold.ttf);
+}
+@font-face {
+  font-family: MontserratBlack;
+  src: url(../fonts/montserrat/Montserrat-Black.ttf);
+}
+
+/* Louis Café Font */
+@font-face {
+  font-family: LouisGeorgeCafeLight;
+  src: url(../fonts/louis_george_cafe/Louis\ George\ Cafe\ Light.ttf);
+}
+@font-face {
+  font-family: LouisGeorgeCafe;
+  src: url(../fonts/louis_george_cafe/Louis\ George\ Cafe.ttf);
+}
+@font-face {
+  font-family: LouisGeorgeCafeBold;
+  src: url(../fonts/louis_george_cafe/Louis\ George\ Cafe\ Bold.ttf);
+}
