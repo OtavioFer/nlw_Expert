@@ -1,4 +1,5 @@
 # HTML
+
 HyperText Markup Language
 
 Tag
@@ -12,6 +13,16 @@ alert(mensagem + (10 * 100) + " abraços!");
 
 // Estrutura base;
 
+## Array ou Vetores... Ex:
+["a", 0, 2.3]
+
+## Objetos... Ex:
+cont celular = {
+  cor: 'preto',
+  modelo: 'apple',
+  peso: 200
+}
+
 const perguntas = [
   {
     pergunta: "Pergunta 01",
@@ -24,9 +35,7 @@ const perguntas = [
   },
 ]
 
+## acessando objeto:
+alert(celular.modelo);
+
 ```
-
-## Array ou Vetores
-[]
-
-## Objetos
