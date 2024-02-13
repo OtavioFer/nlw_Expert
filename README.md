@@ -37,6 +37,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Nesse projeto você vai responder um quiz pra testar os seus conhecimentos e ter um retorno sobre a quantidade de questões que você acertou.
 
+- [Visite o Projeto online](https://otaviofer.github.io/nlw_setup-habits/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1197276808478912551). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
