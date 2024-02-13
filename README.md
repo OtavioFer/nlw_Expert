@@ -1,41 +1,47 @@
-# HTML
+<p align="center">
+  <img alt="Logo NLW Expert - Rocketseat" src="./src/images/Logo.svg" width="200px" />
+</p>
 
-HyperText Markup Language
+<p align="center">
+Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
+</p>
 
-Tag
-Atributos
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-```js
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-const mensagem = "Bom te ver aqui! ";
-alert(mensagem + (10 * 100) + " abraços!");
-// Bom te ver aqui! 1000 abraços!
+<br>
 
-// Estrutura base;
+<p align="center">
+  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="90%">
+</p>
 
-## Array ou Vetores... Ex:
-["a", 0, 2.3]
+## 🚀 Tecnologias
 
-## Objetos... Ex:
-cont celular = {
-  cor: 'preto',
-  modelo: 'apple',
-  peso: 200
-}
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-const perguntas = [
-  {
-    pergunta: "Pergunta 01",
-    respostas: [
-      "Resposta A",
-      "Resposta B",
-      "Resposta C",
-    ],
-    correta: 2
-  },
-]
+- HTML
+- CSS
+- JavaScript
+- Figma
+- Github
 
-## acessando objeto:
-alert(celular.modelo);
 
-```
+## 💻 Projeto
+
+Nesse projeto você vai responder um quiz pra testar os seus conhecimentos e ter um retorno sobre a quantidade de questões que você acertou.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1197276808478912551). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
