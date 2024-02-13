@@ -1,58 +1,67 @@
 const perguntas = [
   {
-    pergunta: "Qual profeta foi engolido por um grande peixe?",
-    respostas: ["Jonas", "Ezequiel", "Isaías"],
-    correta: 0,
-  },
-  {
-    pergunta: "Quem foi o primeiro rei de Israel?",
-    respostas: ["Davi", "Salomão", "Saul"],
-    correta: 2,
-  },
-  {
-    pergunta: "Quem era a esposa de Adão?",
-    respostas: ["Maria", "Eva", "Rute"],
+    pergunta:
+      "Qual função é usada para converter um número em uma string em JavaScript?",
+    respostas: ["stringify()", "toString()", "toText()"],
     correta: 1,
   },
   {
     pergunta:
-      "Quem foi o homem que construiu uma arca para salvar sua família e os animais do dilúvio?",
-    respostas: ["Noé", "Abraão", "Moisés"],
+      "Qual método é usado para dividir uma string em um array de substrings?",
+    respostas: ["split()", "slice()", "divide()"],
     correta: 0,
   },
   {
-    pergunta:
-      "Quem era o filho de Davi que se rebelou contra ele e tentou tomar o trono?",
-    respostas: ["Absalão", "Salomão", "Adonias"],
-    correta: 0,
-  },
-  {
-    pergunta: "Qual profeta foi alimentado por corvos durante uma grande seca?",
-    respostas: ["Eliseu", "Elias", "Jeremias"],
+    pergunta: "Qual é a função de um operador de atribuição?",
+    respostas: [
+      "Comparar valores",
+      "Atribuir um valor a uma variável",
+      "Executar uma função",
+    ],
     correta: 1,
   },
   {
-    pergunta: "Quem foi o rei que construiu o Templo de Jerusalém?",
-    respostas: ["Salomão", "Davi", "Josué"],
+    pergunta: "Qual é o operador de incremento em JavaScript?",
+    respostas: ["++", "+=", "--"],
     correta: 0,
   },
   {
     pergunta:
-      "Quem era o irmão mais velho de Maria e Marta, que Jesus ressuscitou dos mortos?",
-    respostas: ["Tiago", "Lázaro", "Simão"],
+      "Qual método é usado para juntar os elementos de um array em uma string?",
+    respostas: ["concat()", "join()", "merge()"],
     correta: 1,
   },
   {
     pergunta:
-      "Quem foi o profeta que desafiou os profetas de Baal no monte Carmelo?",
-    respostas: ["Eliseu", "Ezequiel", "Elias"],
+      "Qual função é usada para arredondar um número para o inteiro mais próximo?",
+    respostas: ["round()", "ceil()", "floor()"],
+    correta: 0,
+  },
+  {
+    pergunta:
+      "Qual método é usado para remover o primeiro elemento de um array?",
+    respostas: ["shift()", "removeFirst()", "deleteFirst()"],
+    correta: 0,
+  },
+  {
+    pergunta: "Qual é a função do operador lógico '||' em JavaScript?",
+    respostas: [
+      "Operador de adição",
+      "Operador de multiplicação",
+      "Operador de OU lógico",
+    ],
     correta: 2,
   },
   {
     pergunta:
-      "Quem foi a mulher que se tornou esposa de José, após ter sido vendida como escrava pelos seus irmãos?",
-    respostas: ["Raquel", "Tamar", "Azenate"],
-    correta: 2,
+      "Qual método é usado para encontrar a posição de um elemento em um array?",
+    respostas: ["indexOf()", "positionOf()", "findPosition()"],
+    correta: 0,
+  },
+  {
+    pergunta: "Qual é o resultado da expressão '10' + 5 em JavaScript?",
+    respostas: ["'105'", "15", "'10'5"],
+    correta: 0,
   },
 ]
 
